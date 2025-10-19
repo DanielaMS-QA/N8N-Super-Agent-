@@ -6,6 +6,11 @@ Este projeto implementa um **super agente de suporte** usando N8N que combina ch
 
 **Link do Agente**: (https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
 
+## 📸 Screenshots
+
+### Visão Geral do Workflow
+![Workflow Overview](screenshots/workflow-overview.png/workflow-overview.pngworkflow-overview.png.png)
+
 ## 🚀 Funcionalidades
 
 - ✅ **Chat Inteligente** - Responde perguntas com IA (Groq llama-3.1-8b-instant)
