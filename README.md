@@ -121,16 +121,7 @@ O agente processa e armazena:
 3. **Ative o workflow:**
    - Clique no toggle "Inactive" para "Active"
 
-## 📸 Screenshots
 
-
-
-
-### Workflow Overview:
-![Workflow Overview](screenshots/workflow-overview.png)
-
-### Chat Interface:
-![Chat Interface](screenshots/chat-interface.png)
 
 ## 🤝 Contribuição
 
