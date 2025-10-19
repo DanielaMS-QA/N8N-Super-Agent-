@@ -4,7 +4,7 @@
 
 Este projeto implementa um **super agente de suporte** usando N8N que combina chat inteligente, processamento de dados e integração com Google Sheets. O agente é educado, engraçado e utiliza emojis para humanizar a conversa.
 
-**Link do Agente**: [https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd](https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
+**Link do Agente**: (https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
 
 ## 🚀 Funcionalidades
 
@@ -25,13 +25,27 @@ Este projeto implementa um **super agente de suporte** usando N8N que combina ch
 
 ## 🔗 Links do Projeto
 
-- **Agente Virtual**: [https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd](https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
-- **N8N Cloud**: [https://silvadannie.app.n8n.cloud](https://silvadannie.app.n8n.cloud)
+- **Agente Virtual**: (https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
+- **N8N Cloud**: (https://silvadannie.app.n8n.cloud)
 - **Google Sheets**: [Curso N8N - Case 1](https://docs.google.com/spreadsheets/d/1uv2kYRPd3wfONMb3_UbTsrGIZRevsIrw95PaeYKJvrA/edit#gid=0)
 
 ## 📁 Estrutura do Projeto
 
+N8N-Super-Agent/
+├── workflows/
+│   └── n8n-super-agent-workflow.json
+├── docs/
+│   ├── setup-guide.md
+│   └── features-guide.md
+├── screenshots/
+│   ├── workflow-overview.png
+│   └── chat-interface.png
+├── README.md
+└── .gitignore
+
 ## 🔄 Fluxo de Trabalho
+
+Chat Message → Process Data → Google Sheets → AI Agent → Response
 
 ### Detalhes do Fluxo:
 1. **Trigger**: "When chat message received" (mensagem inicial personalizada)
@@ -109,6 +123,9 @@ O agente processa e armazena:
 
 ## 📸 Screenshots
 
+
+
+
 ### Workflow Overview:
 ![Workflow Overview](screenshots/workflow-overview.png)
 
@@ -130,13 +147,12 @@ Este projeto está sob a licença MIT.
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- N8N: [silvadannie.app.n8n.cloud](https://silvadannie.app.n8n.cloud)
+- GitHub: DanielaMS-QA (https://github.com/DanielaMS-QA/N8N-Super-Agent-/edit/main/README.md)
+- N8N: silvadannie (https://silvadannie.app.n8n.cloud)
 
-## 📞 Contato
+## 📞 Contato 55 (11) 99336 5375
 
-- Email: seu.email@exemplo.com
-- GitHub Issues: [Abrir uma issue](https://github.com/seu-usuario/N8N-Super-Agent/issues)
+- Email: danielasilva3251@gmail.com
 
 ## 🙏 Agradecimentos
 
@@ -144,6 +160,7 @@ Este projeto está sob a licença MIT.
 - **Groq** pelo modelo de IA
 - **Google Sheets** pela integração
 - **LangChain** pelo framework de IA
+- **Nocode StartUP** pela intrução
 
 ---
 
