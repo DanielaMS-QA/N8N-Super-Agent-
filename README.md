@@ -27,7 +27,7 @@ Este projeto implementa um **super agente de suporte** usando N8N que combina ch
 
 - **Agente Virtual**: (https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
 - **N8N Cloud**: (https://silvadannie.app.n8n.cloud)
-- **Google Sheets**: [Curso N8N - Case 1](https://docs.google.com/spreadsheets/d/1uv2kYRPd3wfONMb3_UbTsrGIZRevsIrw95PaeYKJvrA/edit#gid=0)
+- **Google Sheets**: (https://docs.google.com/spreadsheets/d/1uv2kYRPd3wfONMb3_UbTsrGIZRevsIrw95PaeYKJvrA/edit#gid=0)
 
 ## 📁 Estrutura do Projeto
 
@@ -58,7 +58,7 @@ Chat Message → Process Data → Google Sheets → AI Agent → Response
 ## 🎯 Como Usar
 
 ### Acessar o agente:
-1. **Via link direto**: [https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd](https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
+1. **Via link direto**: (https://silvadannie.app.n8n.cloud/workflow/A8m3EdjbIkP9d5Zd)
 2. **Mensagem inicial**: "Olá. Tudo bem?👋 Como posso te ajudar hoje?"
 
 ### Exemplos de uso:
@@ -151,7 +151,7 @@ Este projeto está sob a licença MIT.
 - **Groq** pelo modelo de IA
 - **Google Sheets** pela integração
 - **LangChain** pelo framework de IA
-- **Nocode StartUP** pela intrução
+- **Nocode StartUP** pela instrução
 
 ---
 
